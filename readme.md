@@ -7,6 +7,7 @@ Ou pegue o [PDF](./curriculum.pdf) aqui.
 
 # O que fazer depois
 - Gerar o curriculo a partir de um arquivo Yaml ou JSON
+- Organizar o CSS que está um tanto quanto bagunçado
 
 # Bugs conhecidos
 - Apenas funciona no Chrome, no modo de impressão com preview
