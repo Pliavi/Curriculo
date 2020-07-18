@@ -1,0 +1,27 @@
+* {
+  color: black;
+}
+
+html {
+  filter: grayscale(1);
+}
+
+body {
+  margin-top: 0
+}
+
+article {
+  padding: 1.5rem;
+}
+
+.photo img{
+  display: none;
+}
+
+.last-page-break {
+  filter: invert(1)
+}
+
+.last-page-break div:last-child {
+  display: none;
+}
