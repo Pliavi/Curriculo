@@ -137,6 +137,8 @@ strong, .block__title, .experience__title {
 }
 
 .last-page-break a{
+  display: inline-flex;
+  align-items: center;
   color: #fff;
   text-decoration: none;
   padding: 0 10px;

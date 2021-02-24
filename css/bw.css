@@ -22,6 +22,6 @@ article {
   filter: invert(1)
 }
 
-.last-page-break div:last-child {
+/* .last-page-break div:last-child {
   display: none;
-}
+} */
